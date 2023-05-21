@@ -88,8 +88,6 @@ class _MusicPlayScreenState extends State<MusicPlayScreen> {
                           ),
                         ),
                       ),
-
-
                     ],
                   );
                 },
